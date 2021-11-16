@@ -1,6 +1,6 @@
 provider "aws" {
   region  = "ap-south-1"
-  profile = "harsh"
+  profile = "priyanshi"
 }
 
 //key-pair
